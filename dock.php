@@ -11,6 +11,7 @@
    */
 
   echo phpinfo();
-  
+
+  // git logging and debug
 
 ?>
