@@ -14,5 +14,4 @@
 
   // git logging and debug
 
-
 ?>
