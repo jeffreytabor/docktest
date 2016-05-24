@@ -13,5 +13,7 @@
   echo phpinfo();
 
   // git logging and debug
+  
+  // comment made in web interface
 
 ?>
